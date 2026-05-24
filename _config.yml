@@ -150,22 +150,15 @@ sass:
 # Plugins
 # -----------------------------------------------------------------------------
 plugins:
-  - jekyll-archives
-  - jekyll-diagrams
-  - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate
-  - jekyll-regex-replace
   - jekyll-scholar
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
-  - jekyll-twitter-plugin
   - jemoji
 
 # -----------------------------------------------------------------------------
@@ -263,20 +256,6 @@ display_categories: []
 imagemagick:
   enabled: false
 
-# -----------------------------------------------------------------------------
-# Jekyll Diagrams
-# -----------------------------------------------------------------------------
-jekyll-diagrams:
-  chartjs:
-    src:
-  mermaid:
-    src:
-  plantuml:
-    src:
-  vega:
-    src:
-  vega-lite:
-    src:
 
 # -----------------------------------------------------------------------------
 # Third Party Libraries
