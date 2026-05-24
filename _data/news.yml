@@ -1,0 +1,36 @@
+- date: 2026-05-01
+  inline: >
+    New paper submitted to <strong>SIGMETRICS 2026</strong> — 
+    <em>Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems</em>. 
+    Introduces EpG and OOI metrics. Co-authored with Deepak Panigrahy.
+
+- date: 2025-09-01
+  inline: >
+    <strong>3 papers accepted at ACM/IEEE ML for CAD 2025</strong> — 
+    BugGen (self-correcting multi-agent LLM for RTL bug synthesis), 
+    VCDiag (waveform triage), and Last-Mile Coverage in Functional Verification.
+
+- date: 2024-06-01
+  inline: >
+    Received the <strong>2024 Distinguished Achievement Award for Individual Student Engagement</strong> 
+    from Texas A&M Engineering.
+
+- date: 2024-09-01
+  inline: >
+    Paper accepted at <strong>ML for CAD 2024</strong> — MinBLoG: Minimization of Boolean Logic 
+    Functions using Graph Attention Network.
+
+- date: 2022-08-01
+  inline: >
+    <strong>TheHuzz</strong> published at <strong>USENIX Security 2022</strong> — instruction fuzzing 
+    of processors using golden-reference models for finding software-exploitable hardware vulnerabilities.
+
+- date: 2022-04-01
+  inline: >
+    Selected for the <strong>Provost Academic Professional Track Faculty Teaching Excellence Award</strong> — 
+    one of 10 recipients university-wide at Texas A&M.
+
+- date: 2020-07-01
+  inline: >
+    Appointed holder of the <strong>Zachry Teaching Professorship I</strong> in the 
+    College of Engineering, effective June 1, 2020.
